@@ -1,0 +1,7 @@
+E-MapReduce 集群适用多种使用场景，Hadoop ecosystem 以及 Spark 能够支持的场景，E-MapReduce 都可以支持。
+因为 E-MapReduce 本质是 Hadoop 和 Spark 的集群服务，您完全可以将其使用的阿里云 ECS 主机视为自己专属的物理主机。以下示例列出了 E-MapReduce 使用的经典场景。
+批量数据处理
+Ad hoc 数据分析查询
+海量数据在线服务
+流式数据处理
+原文地址：https://help.aliyun.com/document_detail/28071.html?spm=
